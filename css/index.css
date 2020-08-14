@@ -1,0 +1,6 @@
+h1 {color:red}
+p {background-color: rebeccapurple;}
+#chose {border: 10px solid gray;}
+.underline {text-decoration: underline;}
+p:hover{font-size: 2rem;}
+p::first-letter{font-size: 2rem;}
